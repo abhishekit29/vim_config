@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/abhishek/connect-dashboard/routes'
+let g:netrw_dirhist_2='/home/abhishek/connect-dashboard/public/call_logs/views'
+let g:netrw_dirhist_3='/home/abhishek/connect-dashboard/public/call_logs'
+let g:netrw_dirhist_4='/home/abhishek/connect-dashboard/public/call_logs/views'
